@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhatriShashi
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java,web development
-- 💞️ I’m looking to collaborate on interesting project
+- 🌱 I’m currently learning Java, web development
+- 💞️ I’m looking to collaborate on an interesting project
 - 📫 reach me shashikrkhatri9546@gmail.com | shashi107.hitcse2020@gmail.com
 - 
 
